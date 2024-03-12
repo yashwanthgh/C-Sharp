@@ -17,6 +17,16 @@
             float i = 9.10F;
             double j = 10.11;
             Decimal k = 11.2m;
+            
+
+            //Single line comment
+
+            /*
+             this
+            is multi line
+            comment
+             
+             */
 
             char l = 'a';
 
